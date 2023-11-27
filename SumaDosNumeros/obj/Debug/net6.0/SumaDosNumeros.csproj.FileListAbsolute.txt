@@ -1,0 +1,15 @@
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.exe
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.deps.json
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.runtimeconfig.json
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.dll
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\bin\Debug\net6.0\SumaDosNumeros.pdb
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.csproj.AssemblyReference.cache
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.AssemblyInfoInputs.cache
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.AssemblyInfo.cs
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.dll
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\refint\SumaDosNumeros.dll
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.pdb
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\SumaDosNumeros.genruntimeconfig.cache
+C:\Users\ervin.montoya\source\repos\SumaDosNumeros\SumaDosNumeros\obj\Debug\net6.0\ref\SumaDosNumeros.dll
